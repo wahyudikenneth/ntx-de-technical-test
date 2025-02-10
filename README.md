@@ -20,7 +20,7 @@ Your task is to delve into three out of these four challenges. We grant you the 
 
 For each challenge, you'll find an in-depth `README.md` within its respective folder. These files contain vital instructions and context, and we urge you to read them diligently. Your adherence to these instructions will form an integral part of our evaluation.
 
-**Deadline**: Please ensure your solutions are submitted by **12th October 2023 at 16:00**.
+**Deadline**: Please ensure your solutions are submitted 1 week after you receive the test.
 
 ### Submission Guidelines:
 
